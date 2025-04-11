@@ -1,5 +1,7 @@
 Space Marine
 
+Developed by Chris Simonetti 2024
+
 A 2d platform shooter developed using Unity's 2d engine, written in C# IDE Microsoft Visual Studio 2022
 
 ## 🧠 Script Overview
